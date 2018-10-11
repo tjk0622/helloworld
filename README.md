@@ -1,1 +1,3 @@
 # helloworld
+class HelloWorld{
+}
